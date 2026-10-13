@@ -1,0 +1,25 @@
+div {
+    color: #c77dff;
+}
+
+.read-more {
+    color: #c77dff;
+    background-color: #5a189a;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #c77dff;
+}
+.read-more:hover {
+    color: #ffffff;
+    background-color: #c77dff;
+}
+.read-more:active {
+    color: #ffffff;
+    background-color: #10002b;
+}
+
+.block {
+    border: 1px solid #c77dff;
+    border-radius: 5px;
+
+}
