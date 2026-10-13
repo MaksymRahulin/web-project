@@ -1,17 +1,16 @@
 div {
-    color: #c77dff;
+    color: white;
 }
-
 .read-more {
-    color: #c77dff;
-    background-color: #5a189a;
+    color: white;
+    background-color: #1F1D36;
     border-radius: 5px;
     padding: 10px;
-    border: 1px solid #c77dff;
+    border: 1px solid #ffffff;
 }
 .read-more:hover {
     color: #ffffff;
-    background-color: #c77dff;
+    background-color: #3F3351;
 }
 .read-more:active {
     color: #ffffff;
@@ -19,7 +18,7 @@ div {
 }
 
 .block {
-    border: 1px solid #c77dff;
+    border: 1px solid #ffffff;
     border-radius: 5px;
 
 }
